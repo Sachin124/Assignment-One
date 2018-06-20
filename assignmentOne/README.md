@@ -26,7 +26,7 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
 
-##Merging two components in root component
+## Merging two components in root component
 
 1.Create Angular Application which contains two components and display the contents
 of that two components after the root components. Expected output of our
